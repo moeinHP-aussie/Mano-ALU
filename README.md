@@ -1,2 +1,1 @@
-# Mano-ALU
-Computer architecture course project - Moris Mano
+Design Mano ALU with Proteus
